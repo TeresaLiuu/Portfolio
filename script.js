@@ -8,6 +8,6 @@ $("#project").click(function () {
 
 $("#contact").click(function () {
     $('html, body').animate({
-        scrollTop: $("#contact2").offset().top
+        scrollTop: $("#contactme").offset().top
     }, 1000);
 });
