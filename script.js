@@ -11,3 +11,9 @@ $("#contact").click(function () {
         scrollTop: $("#contactme").offset().top
     }, 1000);
 });
+
+$("#resume").click(function () {
+    $('html, body').animate({
+        scrollTop: $("#resume2").offset().top
+    }, 1000);
+});
