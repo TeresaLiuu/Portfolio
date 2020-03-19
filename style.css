@@ -42,7 +42,7 @@ body {
   text-transform: uppercase;
 }
 #services{
-  background-image: url("./assets/kaboompics_Ficus\ Elastica\ Robusta\ &\ Tineke.jpg");
+  background-image: url("./assets/grass.jpg");
 }
 
 h1,
@@ -133,7 +133,6 @@ h6 {
   display: flex;
   height: 100%;
   width: 100%;
-  background-color: rgba(33, 37, 41, 0.2);
   position: absolute;
   top: 0;
   bottom: 0;
